@@ -14,7 +14,7 @@
 */
 
 return [
-    'appointment_valid_end' => 'Valoarea orei de început trebuie să fie mai mare decât ora de încheiere',
+    'record_valid_end' => 'Valoarea orei de început trebuie să fie mai mare decât ora de încheiere',
     'client_required' => 'Când câmpul Client este obligatoriu, trebuie să activați Pluginul Client.',
     'date_format' => ':attribute trebuie să aibă formatul dat.',
     'is_client' => 'Rolul trebuie să conțină cuvântul „client”.',

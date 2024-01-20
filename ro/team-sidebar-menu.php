@@ -14,7 +14,7 @@
 */
 
 return [
-    'appointments' => 'Programari',
+    'records' => 'Inregistrari',
     'charts' => 'Grafice',
     'clients' => 'Clienti',
     'holidays' => 'Sarbatori',

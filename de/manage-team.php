@@ -15,7 +15,7 @@
 
 return [
     'team_panel' => 'Team Panel',
-    'total_appointments' => 'Total Appointments',
+    'total_records' => 'Total Records',
     'total_clients' => 'Total Clients',
     'total_projects' => 'Total Projects',
     'total_roles' => 'Total Roles',

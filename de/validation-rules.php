@@ -14,7 +14,7 @@
 */
 
 return [
-    'appointment_valid_end' => 'Start time value must be greater than End time',
+    'record_valid_end' => 'Start time value must be greater than End time',
     'client_required' => 'When Client field is required you have to enable Client Plugin.',
     'date_format' => 'The :attribute must in the given format.',
     'is_client' => 'The Role must contain the word "client".',

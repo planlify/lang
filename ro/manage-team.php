@@ -15,7 +15,7 @@
 
 return [
     'team_panel' => 'Panoul Echipei',
-    'total_appointments' => 'Total Programari',
+    'total_records' => 'Total Inregistrari',
     'total_clients' => 'Total Clienti',
     'total_projects' => 'Total Proiecte',
     'total_roles' => 'Total Roluri',

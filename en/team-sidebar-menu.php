@@ -14,7 +14,7 @@
 */
 
 return [
-    'appointments' => 'Appointments',
+    'records' => 'Records',
     'charts' => 'Charts',
     'clients' => 'Clients',
     'holidays' => 'Holidays',
